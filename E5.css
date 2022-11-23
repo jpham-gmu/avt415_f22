@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+	body {
+    background-color: #A7E9F1;
+}
+
+
+body{ 
+		margin: 70px
+	}
+	
+	div.div1 {
+		width: auto;
+		margin: auto;
+	}
+	
+	div.div2{
+		width: auto;
+		margin: auto;
+	}
+	
+	p{
+		font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+		line-height: 1.8
+	}
+
+	p1{
+		font-style: italic
+	}
+
+	p2{
+		font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	}
+	
+	h1{
+		font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+		font-size: 55px
+	}
+	
+	h2{
+		font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'
+		
+	}
